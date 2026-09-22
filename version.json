@@ -5,9 +5,8 @@
   "quote": "\"Chip mới, sinh vật mới. Đừng làm nổ phòng thí nghiệm.\" — Azmuth",
   "notes": [
     "Bỏ 4 chip cũ Phong Cách, Tư Thế, Tính Cách, Biểu Cảm.",
-    "Thêm 6 chip mới thay đổi hẳn hình dạng Alien: Nguyên Tố, Dị Biến, Kích Thước, Sinh Cảnh, Tuyệt Chiêu, Hào Quang.",
-    "Ví dụ Dị Biến cho bốn tay hoặc hai đầu, Kích Thước từ tí hon tới khổng lồ, Sinh Cảnh cho Alien tiến hóa theo môi trường.",
-    "Chip Trang Bị và Trang Phục vẫn ở lại."
+    "Thêm 6 chip mới đổi hẳn hình dạng Alien: Nguyên Tố, Dị Biến, Kích Thước, Sinh Cảnh, Tuyệt Chiêu, Hào Quang.",
+    "Sửa lỗi màn hình đen sau khi cài bản mới; bản lỗi sẽ tự quay về bản gốc của file."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
