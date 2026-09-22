@@ -1,8 +1,11 @@
 {
-  "version": "v8.2.1",
-  "name": "Nguồn Cập Nhật",
+  "version": "v8.4",
+  "name": "Khóa Mã Galvan",
+  "icon": "🔐",
+  "quote": "\"Mã nguồn của ta, chỉ ta được sửa.\" — Azmuth",
   "notes": [
-    "App đã được gắn sẵn nguồn cập nhật, mở lên là tự kiểm tra bản mới, không cần dán link nữa."
+    "Lõi app được niêm phong bằng mật mã Galvan. Người ngoài mở file ra chỉ thấy một mớ ký tự vô nghĩa.",
+    "Bản tin Có gì mới khoác áo mới: mỗi bản cập nhật giờ có biểu tượng, câu nói và tin tức riêng."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
