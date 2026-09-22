@@ -1,12 +1,12 @@
 {
-  "version": "v8.5",
-  "name": "Kho Chip Tiến Hóa",
-  "icon": "🧪",
-  "quote": "\"Chip mới, sinh vật mới. Đừng làm nổ phòng thí nghiệm.\" — Azmuth",
+  "version": "v8.7",
+  "name": "Giao Diện Đa Ngữ",
+  "icon": "🗣️",
+  "quote": "\"Cứ nói đi, Omnitrix nghe hiểu hết.\" — Azmuth",
   "notes": [
-    "Bỏ 4 chip cũ Phong Cách, Tư Thế, Tính Cách, Biểu Cảm.",
-    "Thêm 6 chip mới đổi hẳn hình dạng Alien: Nguyên Tố, Dị Biến, Kích Thước, Sinh Cảnh, Tuyệt Chiêu, Hào Quang.",
-    "Sửa lỗi màn hình đen sau khi cài bản mới; bản lỗi sẽ tự quay về bản gốc của file."
+    "Thêm mục Ngôn ngữ giao diện: nút, nhãn và menu được dịch sang thứ tiếng bạn chọn.",
+    "Bản dịch được lưu lại nên chỉ tốn lượt gọi AI trong lần đầu.",
+    "Chọn lại Tiếng Việt là giao diện trở về như cũ."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
