@@ -1,9 +1,8 @@
 {
-  "version": "v8.2",
-  "name": "Cài Đặt Nhanh",
+  "version": "v8.2.1",
+  "name": "Nguồn Cập Nhật",
   "notes": [
-    "Bấm Cài đặt trên bảng cập nhật là app tự tải bản mới, có thanh tiến trình chạy theo phần trăm.",
-    "Nhật ký cập nhật được viết lại cho dễ đọc hơn."
+    "App đã được gắn sẵn nguồn cập nhật, mở lên là tự kiểm tra bản mới, không cần dán link nữa."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
