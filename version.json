@@ -1,13 +1,15 @@
 {
-  "version": "v9.0",
-  "name": "Master Control",
-  "icon": "🎛️",
-  "quote": "\"Toàn quyền điều khiển, dùng cho cẩn thận.\" — Azmuth",
+  "version": "v9.1",
+  "name": "Ngôn Ngữ Toàn Cầu",
+  "icon": "🌐",
+  "quote": "\"Một đồng hồ, mọi tiếng nói.\" — Azmuth",
   "notes": [
-    "Mở khóa Master Control sau khi hoàn thành cốt truyện Plumber hoặc tạo 50 Alien: mọi chế độ, nhân lõi và chip đều mở, Omnitrix biến hình được cả khi chưa lắp lõi.",
-    "Bổ sung Chế độ Tự Hủy: đếm ngược 10 giây rồi xóa sạch dữ liệu và khóa thiết bị, có thể hủy giữa chừng.",
-    "Sau khi tự hủy, app chỉ còn bảng dòng lệnh khôi phục; phải nhập đúng lệnh restore kèm mã khôi phục mới bật lại được.",
-    "Bổ sung gói ngôn ngữ Français, Español và Português."
+    "Hoàn tất 17 gói ngôn ngữ giao diện: English, 中文, 繁體中文, 日本語, 한국어, Français, Español, Português, Deutsch, Italiano, Русский, ไทย, Bahasa Indonesia, हिन्दी, العربية, Türkçe, Filipino.",
+    "Tiếng Ả Rập lật đúng bố cục từ phải sang trái.",
+    "Chuyển ngôn ngữ áp dụng tức thì, không cần mạng và không tốn lượt AI.",
+    "Nguồn cập nhật gắn sẵn trong app; màu nhân lõi chỉnh sát với phim.",
+    "Biểu tượng Omnitrix mới cho màn hình khởi động và chế độ Biomnitrix.",
+    "Huy hiệu nhân lõi dùng bộ biểu tượng Omnitrix mới."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
