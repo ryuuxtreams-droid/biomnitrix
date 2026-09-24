@@ -1,15 +1,12 @@
 {
-  "version": "v9.1",
-  "name": "Ngôn Ngữ Toàn Cầu",
-  "icon": "🌐",
-  "quote": "\"Một đồng hồ, mọi tiếng nói.\" — Azmuth",
+  "version": "v9.2.1",
+  "name": "Dung Hợp Triệt Để",
+  "icon": "🧫",
+  "quote": "\"Lai gen không phải là mặc bộ đồ hóa trang.\" — Azmuth",
   "notes": [
-    "Hoàn tất 17 gói ngôn ngữ giao diện: English, 中文, 繁體中文, 日本語, 한국어, Français, Español, Português, Deutsch, Italiano, Русский, ไทย, Bahasa Indonesia, हिन्दी, العربية, Türkçe, Filipino.",
-    "Tiếng Ả Rập lật đúng bố cục từ phải sang trái.",
-    "Chuyển ngôn ngữ áp dụng tức thì, không cần mạng và không tốn lượt AI.",
-    "Nguồn cập nhật gắn sẵn trong app; màu nhân lõi chỉnh sát với phim.",
-    "Biểu tượng Omnitrix mới cho màn hình khởi động và chế độ Biomnitrix.",
-    "Huy hiệu nhân lõi dùng bộ biểu tượng Omnitrix mới."
+    "Dung hợp với nhân vật người không còn giữ nguyên đầu và mặt người trên thân alien.",
+    "Đầu phải lai thật sự: da, mắt, hàm, mào của alien, chỉ giữ vài nét người thoáng qua.",
+    "Cấm kiểu vẽ người mặc giáp hay hóa trang thành alien."
   ],
   "download": "https://raw.githubusercontent.com/ryuuxtreams-droid/biomnitrix/main/Biomnitrix_Lab.html"
 }
